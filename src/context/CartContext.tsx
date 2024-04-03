@@ -21,7 +21,7 @@ const CartContext = createContext<CartContextData>({
   clearCart: () => {},
 });
 
-export const CartProvider: React.FC = ({ children }) => {
+export const CartProvider = ({ children }: { children: React.ReactNode }) => {
   const [cart, setCart] = useState<CartProduct[]>([]);
   const [totalItems, setTotalItems] = useState(0);
 
