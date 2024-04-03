@@ -12,7 +12,12 @@ Um projeto de e-commerce para um desafio da empresa Wefit.
 `npm run dev`
 
 ## Demonstração
+Live: https://wefit-ecommerce-6duerhqbw-antonio-loureiros-projects.vercel.app/
+
 ![image](https://github.com/antonio4all/wefit-ecommerce/assets/26775813/a8005470-2f40-411a-8b26-50d8cbadf3f8)
+
+## Tecnologias Utilizadas
+React, Typescript, Styled Components, Vite
 
 
 
